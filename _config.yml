@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Hugo Azevedo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Estudante de Engenharia Civil da Universidade Federal de Alagoas (UFAL), atualmente no 6º Período, pesquisador do Laboratório de Computação Cientifíca e Visualização (LCCV) e coordenador discente do Programa Especial de Capacitação Discente (PEC)."
+  location         : "Maceió - Alagoas"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hugoazv"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_hugoazevedo"
   vine             :
   weibo            :
   xing             :
