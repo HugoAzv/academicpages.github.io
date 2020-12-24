@@ -51,21 +51,22 @@ redirect_from:
    * Centro de Tecnologia (CTEC)
    * 2018 a 2019
      * Membro da Equipe de Documentação
-   * 2019 a 2020
+   * 2019 a 2021
      * Coordenador Discente
    * Supervisora: <span style="color:darkblue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Lima Marques da Silva</a></span> e <span style="color:darkblue"><a href="http://lattes.cnpq.br/1255714800013638">Dayana de Gusmão Coêlho</a></span>
 
-> **Monitoria de Cálculo 1**
-   * 2018
+
+## Monitorias
+
+> **Monitor de Cálculo 1 - 2018**
    * Supervisora: Profa. Dra. <span style="color:darkblue"><a href="http://lattes.cnpq.br/2188012197903379">Adriana de Oliveira Santos Weber</a></span>
    
-> **Monitoria de Teoria das Estruturas 1**
-   * 2019 a 2020
+> **Monitor de Teoria das Estruturas 1 - 2019 a 2020**
    * Supervisor: Prof. Dr. <span style="color:darkblue"><a href="http://lattes.cnpq.br/9116884298385000">Flávio Barboza de Lima</a></span>
    
-> **Monitoria de Estatística**
-   * 2020
+> **Monitor de Estatística - 2020**
    * Supervisor: Prof. Dr. <span style="color:darkblue"><a href="http://lattes.cnpq.br/7173615407036770">Roberto Barbosa dos Santos</a></span>
+
 
 ## Prêmios
 
@@ -79,7 +80,7 @@ redirect_from:
 
 > Melhor Trabalho na Sessão "Ensino e Extensão em Engenharia", VII Semana de Engenharia (2020)
 
+
 ## Na Mídia
 
 > Aluno recebe Prêmio Prêmio Agustin Ferrante em evento internacional <span style="color:darkblue"><a href="https://ufal.br/estudante/noticias/2019/11/aluno-recebe-premio-premio-agustin-ferrante-em-evento-internacional">Aqui!</a></span>
- 
