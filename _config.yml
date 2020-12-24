@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Hugo Azevedo / Site Title"
+title                    : "Página Principal"
 title_separator          : "-"
-name                     : &name "Hugo"
-description              : &description "personal description"
+name                     : &name "Hugo Azevedo"
+description              : &description "Graduando em Engenharia Civil (UFAL) e aluno pesquisador do Laboratório de Computação Científica e Visualização (LCCV/UFAL)"
 url                      : https://hugoazv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Estudante de Engenharia Civil da Universidade Federal de Alagoas (UFAL), atualmente no 6º Período, pesquisador do Laboratório de Computação Cientifíca e Visualização (LCCV) e coordenador discente do Programa Especial de Capacitação Discente (PEC)."
   location         : "Maceió - Alagoas"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "Universidade Federal de Alagoas"
+  pubmed           : 
+  googlescholar    : 
+  email            : "hugovazevedo@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Hugo_Azevedo5"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,10 +99,10 @@ author:
   github           : "hugoazv"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "hugoazevedo_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hugo-azevedo-6a401b155/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
