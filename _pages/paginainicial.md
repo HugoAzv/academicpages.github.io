@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /paginainicial/
 title: "Bem Vindo!"
 excerpt: "About me"
 author_profile: true
