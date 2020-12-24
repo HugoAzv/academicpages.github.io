@@ -83,12 +83,13 @@ author:
   name             : "Hugo Azevedo"
   avatar           : "eu.jpeg"
   bio              : "Graduando em Engenharia Civil na Universidade Federal de Alagoas (UFAL) e aluno pesquisador do Laboratório de Computação Cientifíca e Visualização (LCCV)."
-  location         : "Maceió - Alagoas"
+  location         : "Maceió, Alagoas, Brasil"
   employer         : "Universidade Federal de Alagoas"
   pubmed           : 
   googlescholar    : 
   email            : "hugovazevedo@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Hugo_Azevedo5"
+  linkedin         : "https://www.linkedin.com/in/hugo-azevedo-6a401b155/"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +97,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  instagram        : "hugoazevedo_"
   github           : "hugoazv"
   google_plus      :
   keybase          :
-  instagram        : "hugoazevedo_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hugo-azevedo-6a401b155/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "_hugoazevedo"
+  twitter          : #"_hugoazevedo"
   vine             :
   weibo            :
   xing             :
