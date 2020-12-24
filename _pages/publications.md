@@ -4,14 +4,12 @@ title: "Projetos"
 permalink: /projetos/
 author_profile: true
 ---
-
-{% include base_path %}
-
- você pode achar os artigos que já publiquei e ver meu currículo completo no meu <u><a href="{{author.researchgate}}">perfil do ResearchGate</a>.</u>
+ 
+ Você pode achar os artigos que já publiquei e ver meu currículo completo no meu <u><a href="https://www.researchgate.net/profile/Hugo_Azevedo5">perfil do ResearchGate</a>.</u>
  
  ## Projetos de Pesquisa
 
-> **PIBIC 2018-2019: ÍNDICES DA BIODIVERSIDADE E DE INVESTIMENTO DAS UNIDADES DE CONSERVAÇÃO DE PROTEÇÃO INTEGRAL DO NORDESTE BRASILEIRO**
+> **PIBIC 2018-2019: MODELOS E FERRAMENTAS COMPUTACIONAIS PARA APOIO AO DIMENSIONAMENTO DE REVESTIMENTOS DE POÇOS**
 - **Plano de Trabalho**: Caracterização Estatística de Séries Amostrais: Contribuição ao Desenvolvimento da Ferramenta StatFit
 - **Orientação**: Eduardo Toledo
 
