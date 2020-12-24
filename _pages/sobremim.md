@@ -10,14 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ## Educação
-======
+
 > **Graduação em Engenharia Civil**
    * Universidade Federal de Alagoas (UFAL)
    * 2017 - Atualmente
 
 ## Experiência
 
-### Pesquisa
 > **Caracterização Estatística de Séries Amostrais: Contribuição ao Desenvolvimento da Ferramenta StatFit**
    * Centro de Tecnologia (CTEC)
    * 2018 a 2019
