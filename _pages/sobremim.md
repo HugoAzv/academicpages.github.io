@@ -21,31 +21,31 @@ redirect_from:
    * Centro de Tecnologia (CTEC)
    * 2018 a 2019
    * Bolsista de Projeto PIBIC
-   * Orientador: Prof. Dr. <span style="color:blue"><a href="http://lattes.cnpq.br/9620590212639569">Eduardo Toledo de Lima Junior</a></span>   
+   * Orientador: Prof. Dr. <span style="color:darkblue"><a href="http://lattes.cnpq.br/9620590212639569">Eduardo Toledo de Lima Junior</a></span>   
    
 > **Desenvolvimento de Ferramentas Computacionais para Modelagem em Tempo Real da Integridade de Estrutura de Poço**
    * Laboratório de Computação Científica e Visualização (LCCV)
    * 2019 - Atualmente
    * Bolsista do Laboratório
-   * Orientador: Prof. Dr. <span style="color:blue"><a href="http://lattes.cnpq.br/9620590212639569">Eduardo Toledo de Lima Junior</a></span>
+   * Orientador: Prof. Dr. <span style="color:darkblue"><a href="http://lattes.cnpq.br/9620590212639569">Eduardo Toledo de Lima Junior</a></span>
    
 > **Implementação de Ferramentas de Apoio ao Projeto de Revestimentos no sistema SAEP**
    * Laboratório de Computação Científica e Visualização (LCCV)
    * 2019 - 2020
    * Bolsista do Laboratório
-   * Orientador: Prof. Dr. <span style="color:blue"><a href="http://lattes.cnpq.br/9620590212639569">Eduardo Toledo de Lima Junior</a></span>
+   * Orientador: Prof. Dr. <span style="color:darkblue"><a href="http://lattes.cnpq.br/9620590212639569">Eduardo Toledo de Lima Junior</a></span>
    
 > **Técnicas de aprendizado de máquina aplicadas à detecção de anomalias em poços de óleo e gás em fase de produção**
    * Centro de Tecnologia (CTEC)
    * 2020 - Atualmente
    * Colaborador de Projeto PIBIC
-   * Orientador: Prof. Dr. <span style="color:blue"><a href="http://lattes.cnpq.br/9620590212639569">Eduardo Toledo de Lima Junior</a></span>
+   * Orientador: Prof. Dr. <span style="color:darkblue"><a href="http://lattes.cnpq.br/9620590212639569">Eduardo Toledo de Lima Junior</a></span>
       
 > **Desenvolvimento de Ferramenta Computacional para Dimensionamento de Estruturas Metálicas em Perfis Formados a Frio**
    * Centro de Tecnologia (CTEC)
    * 2020 - Atualmente
    * Aluno Pesquisador
-   * Orientador: Prof. Dr. <span style="color:blue"><a href="http://lattes.cnpq.br/0328556773055905">Luciano Barbosa dos Santos</a></span>
+   * Orientador: Prof. Dr. <span style="color:darkblue"><a href="http://lattes.cnpq.br/0328556773055905">Luciano Barbosa dos Santos</a></span>
    
 > **Programa Especial de Capacitação Discente - PEC**
    * Centro de Tecnologia (CTEC)
@@ -53,19 +53,19 @@ redirect_from:
      * Membro da Equipe de Documentação
    * 2019 a 2020
      * Coordenador Discente
-   * Supervisora: <span style="color:blue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Lima Marques da Silva</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/1255714800013638">Dayana de Gusmão Coêlho</a></span>
+   * Supervisora: <span style="color:darkblue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Lima Marques da Silva</a></span> e <span style="color:darkblue"><a href="http://lattes.cnpq.br/1255714800013638">Dayana de Gusmão Coêlho</a></span>
 
 > **Monitoria de Cálculo 1**
    * 2018
-   * Supervisora: Profa. Dra. <span style="color:blue"><a href="http://lattes.cnpq.br/2188012197903379">Adriana de Oliveira Santos Weber</a></span>
+   * Supervisora: Profa. Dra. <span style="color:darkblue"><a href="http://lattes.cnpq.br/2188012197903379">Adriana de Oliveira Santos Weber</a></span>
    
 > **Monitoria de Teoria das Estruturas 1**
    * 2019 a 2020
-   * Supervisor: Prof. Dr. <span style="color:blue"><a href="http://lattes.cnpq.br/9116884298385000">Flávio Barboza de Lima</a></span>
+   * Supervisor: Prof. Dr. <span style="color:darkblue"><a href="http://lattes.cnpq.br/9116884298385000">Flávio Barboza de Lima</a></span>
    
 > **Monitoria de Estatística**
    * 2020
-   * Supervisor: Prof. Dr. <span style="color:blue"><a href="http://lattes.cnpq.br/7173615407036770">Roberto Barbosa dos Santos</a></span>
+   * Supervisor: Prof. Dr. <span style="color:darkblue"><a href="http://lattes.cnpq.br/7173615407036770">Roberto Barbosa dos Santos</a></span>
 
 ## Prêmios
 
@@ -81,5 +81,5 @@ redirect_from:
 
 ## Na Mídia
 
-> Aluno recebe Prêmio Prêmio Agustin Ferrante em evento internacional <span style="color:blue"><a href="https://ufal.br/estudante/noticias/2019/11/aluno-recebe-premio-premio-agustin-ferrante-em-evento-internacional">Aqui!</a></span>
+> Aluno recebe Prêmio Prêmio Agustin Ferrante em evento internacional <span style="color:darkblue"><a href="https://ufal.br/estudante/noticias/2019/11/aluno-recebe-premio-premio-agustin-ferrante-em-evento-internacional">Aqui!</a></span>
  
