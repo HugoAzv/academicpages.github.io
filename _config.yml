@@ -260,6 +260,7 @@ timezone: America/Fortaleza # http://en.wikipedia.org/wiki/List_of_tz_database_t
 
 # Plugins
 plugins:
+  - jekyll-target-blank
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
